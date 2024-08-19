@@ -2,7 +2,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/006/362/890/original/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg" alt="Programming and Software Development Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Brittney Hooker</h1>
-<h3 align="center">A passionate full-stack developer with a strong foundation in React Native and Python.</h3>
+<h3 align="center">A passionate full-stack developer with a strong foundation in React and Python.</h3>
 
 - 🔭 I recently completed <a href="https://react-quest.netlify.app" target="_blank">React Quest</a>, an interactive coding tutorial that teaches React concepts through puzzles and challenges. Check it out!
 - 🌱 I’m always learning and exploring new technologies to stay up-to-date with industry trends.
